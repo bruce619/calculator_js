@@ -1,7 +1,7 @@
 body{
     padding: 0;
     margin: 0;
-    background: linear-gradient(to right, #00AAFF, #00FF6C);
+    background: linear-gradient(to right, #801e5f, #aa9d28);
 }
 
 *, *::before, *::after{
@@ -31,7 +31,7 @@ body{
     background-color: rgba(255, 255, 255, .9);
 }
 
-#span-two {
+#col-two {
     grid-column: span 2;
 }
 
